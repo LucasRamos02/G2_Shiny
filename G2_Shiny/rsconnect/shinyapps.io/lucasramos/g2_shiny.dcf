@@ -1,0 +1,10 @@
+name: g2_shiny
+title:
+username: lucasramos
+account: lucasramos
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 15015157
+bundleId: 10545608
+url: https://lucasramos.shinyapps.io/g2_shiny/
+version: 1
